@@ -10,9 +10,10 @@ Projek kalkulator sederhana adalah sebuah aplikasi sederhana menggunakan html da
 
 berikut adalah struktur projek saya
 ```markdown
-Tugas5_[RafiHasan].php
-Tugas6_[RafiHasan].php
-style.css
+ 📦src
+ ┣ 📜Tugas5_[RafiHasan].php
+ ┣ 📜Tugas6[RafiHasan].php
+ ┗ 📜style.css
 ```
 
 ### Cara penggunaan
